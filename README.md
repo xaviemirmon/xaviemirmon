@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Xavier
-#### Lead Fullstack Product Engineer at Investis Digital based in Brighton, UK
+#### Frontend Architect at Veeva Systems based in Brighton, UK
 
 I'm focussed on building great things with Drupal, React, Gatsby and Next.js.
 
