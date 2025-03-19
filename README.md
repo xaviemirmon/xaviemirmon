@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Xavier
-#### Frontend Architect at Veeva Systems based in Brighton, UK
+#### Fullstack Architect and Engineer based in Brighton, UK
 
 I'm focussed on building great things with Drupal, React, Gatsby and Next.js.
 
